@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ember Mail</title>
+<style>
+  :root { color-scheme: light dark; --bg: #fafafa; --fg: #17181c; --muted: #5c5f66; --accent: #e8590c; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #17181c; --fg: #f1f1f3; --muted: #a0a3ab; } }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, sans-serif; }
+  main { max-width: 40rem; margin: 0 auto; padding: 4rem 1rem; }
+  h1 { font-size: 2.5rem; margin: 0 0 .5rem; }
+  p { color: var(--muted); }
+  a.button { display: inline-block; margin-top: 1rem; padding: .75rem 1.25rem; border-radius: .5rem; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Ember Mail</h1>
+  <p>A fast desktop email client for Gmail, Outlook.com, iCloud and any IMAP server — with calendars, smart inbox stacks and more.</p>
+  <a class="button" id="download" href="https://github.com/justinboswell/embermail.app/releases/latest">Download for Windows</a>
+  <p id="version"></p>
+</main>
+<script>
+  fetch("latest.json").then((r) => r.json()).then((m) => {
+    document.getElementById("download").href = m.platforms["windows-x86_64"].url;
+    document.getElementById("version").textContent = "Version " + m.version;
+  }).catch(() => {});
+</script>
+</body>
+</html>
