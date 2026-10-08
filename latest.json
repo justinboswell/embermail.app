@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Release pipeline, NSIS installer, and auto-update checks (#123)\n\n* Updater: check embermail.app/latest.json, prompt to install; setting under General\n\nNSIS-only bundle with updater artifacts; version comes from package.json.\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n* Release workflow: signed NSIS build published to embermail.app\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n* Updater: no update checks in dev builds\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n* Settings: Check now button for updates\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n* SIGNING.md: release key and secret setup\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n* Updater public key\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Justin Boswell <jboswell-codev@agbo.com>\nCo-authored-by: Claude Opus 5.5 <noreply@anthropic.com>",
+  "pub_date": "2026-10-08T23:00:55.773Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bENYL2JpQ1NhS1FWZk1UZ3pRamJJL1QzQTFKRG1UZklOaXNJUlY3NGJEN3psdHJmczllZ1l1bVljblNTNzlSOU9NaHBnQ1RPbFgydHVDRXJmMmtpOHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAwNDUxCWZpbGU6RW1iZXIgTWFpbF8wLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKQlJtMVRSUFpHcjE3ZFJnZThTcUh5TGY0RmRTblp2NTU2N2Y1ekZOa3VCZjQrQWNKeG5FcFBhdUlXejlYWU9kR21WT2hRMnlvNGc1eFNrVmMyWFFZQmc9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.0/EmberMail_0.1.0_x64-setup.exe"
+    }
+  }
+}
