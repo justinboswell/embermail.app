@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Stacks inbox by default. A new install turns on settings sync automatically when one of your accounts already has synced settings. Check now opens a dialog when an update is found.",
-  "pub_date": "2026-10-09T00:04:43.114Z",
+  "version": "0.1.3",
+  "notes": "New app icon.",
+  "pub_date": "2026-10-09T00:35:45.318Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEZkUC9JU0lyMjlJTUs0MnJjZ1hhOUpsWVdQbWN6LzZ2Vks3WWNFc1RhNE9YKys2bmdsNnhWQ2RWTXFrNjVLWnV6azgzRkdnNGlYWGVDQkZidFNsVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA0Mjc4CWZpbGU6RW1iZXIgTWFpbF8wLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIKNWNwMXE3TTdjZjRwZysyZ3FTaXh6bmJzZkVVT1o1c0Z1Qk9aRzhoNTcySnZqc1Rjbm5Ma0JSTm8vdVdjanlhS3B1UkFGSXhYR3YrYy9tbjExU09pQ1E9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.2/EmberMail_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEZhZmlFKytoMU5qU2FuanMveUQzWUVBSlZwenhsSnQ5Q09KdEkvOHVDTnAxNXZXbDNQbktnWk5PdU0xOEZJbEhXU2JQVXY0RDhOcng3USs5Wk5DRWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA2MTQwCWZpbGU6RW1iZXIgTWFpbF8wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKOUltNFN4Q2hkWStIeHBGMnJCV2RMQnlXVHhBS1ZBVzZIL0VpOFRMNEJLQ2c2V3A5Z2VPNlU4OThJa1Y1dG9JZmFsOXNzUlRucnJBenE5Z0tiKzBUQXc9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.3/EmberMail_0.1.3_x64-setup.exe"
     }
   }
 }
