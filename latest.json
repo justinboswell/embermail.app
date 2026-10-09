@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "New app icon.",
-  "pub_date": "2026-10-09T00:35:45.318Z",
+  "version": "0.1.4",
+  "notes": "Mark as Junk in the thread menu: moves a message to Junk and reports it without blocking the sender. Junk reports now set the $Junk/$NotJunk flags so your provider's spam filter learns from them.",
+  "pub_date": "2026-10-09T02:24:36.374Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEZhZmlFKytoMU5qU2FuanMveUQzWUVBSlZwenhsSnQ5Q09KdEkvOHVDTnAxNXZXbDNQbktnWk5PdU0xOEZJbEhXU2JQVXY0RDhOcng3USs5Wk5DRWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA2MTQwCWZpbGU6RW1iZXIgTWFpbF8wLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMKOUltNFN4Q2hkWStIeHBGMnJCV2RMQnlXVHhBS1ZBVzZIL0VpOFRMNEJLQ2c2V3A5Z2VPNlU4OThJa1Y1dG9JZmFsOXNzUlRucnJBenE5Z0tiKzBUQXc9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.3/EmberMail_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEdDWkRQK3F5YXFCM2hXYmJxdEV1QUM4MEE1V3E3Yk1oVWVnR011MloxUi8xeFFDeThlQ09mODQ2R0xhM2lxSys2V2dDeGpyUCtLMERkK01RN2pzQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTEyNjcxCWZpbGU6RW1iZXIgTWFpbF8wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKcjVWOGhuU3pBRlBSdWhwREpuNGxSTDF6d215MU1MRWF4OEdUbHlYazk2OHhSS3JPUnhDNmorTEJ4Y0tzMmk4ZTE0Z0doRkljYndNcDhCNzJHQmhEQ0E9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.4/EmberMail_0.1.4_x64-setup.exe"
     }
   }
 }
