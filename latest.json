@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Mark as Junk in the thread menu: moves a message to Junk and reports it without blocking the sender. Junk reports now set the $Junk/$NotJunk flags so your provider's spam filter learns from them.",
-  "pub_date": "2026-10-09T02:24:36.374Z",
+  "version": "0.2.0",
+  "notes": "Tasks\n- New Tasks tab beside the Agenda (and a Tasks button on the left bar). Add tasks with due dates, times and notes; get a notification when they're due.\n- Make a task from any email: right-click > Add as task, the Add as task button in the reader, or drag it onto the Tasks panel. The task links back to the email.\n- Follow-up reminders and snoozed mail show up among your tasks.\n- Tasks sync with Google Tasks and Microsoft To Do. Existing Gmail and Outlook accounts need to reconnect once (the Tasks panel shows a Reconnect button). Tasks kept on this computer sync through Sync settings.\n\nLook and layout\n- A thin bar on the left switches between Mail, Calendar and Tasks; Settings moved to its bottom corner.\n- The right panel can be resized by dragging its left edge.\n- Stacks cards can have colors (Settings > Categories > Colors). Priority is orange, Starred yellow and Primary blue by default.\n- The Read card is dimmed so finished mail recedes.\n- A blue calendar button in the Agenda opens the full calendar.",
+  "pub_date": "2026-10-09T15:46:46.832Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEdDWkRQK3F5YXFCM2hXYmJxdEV1QUM4MEE1V3E3Yk1oVWVnR011MloxUi8xeFFDeThlQ09mODQ2R0xhM2lxSys2V2dDeGpyUCtLMERkK01RN2pzQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTEyNjcxCWZpbGU6RW1iZXIgTWFpbF8wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKcjVWOGhuU3pBRlBSdWhwREpuNGxSTDF6d215MU1MRWF4OEdUbHlYazk2OHhSS3JPUnhDNmorTEJ4Y0tzMmk4ZTE0Z0doRkljYndNcDhCNzJHQmhEQ0E9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.1.4/EmberMail_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEtvR3cwNjhPd0VEb0Y4L2VpRnNwekZlR2ZXeDZWODNWa084V1Iwd0ExWkRUdzArTDFGdzZDOUhsUmRvMDRkN1lJdDhUd0VnVXhGMGNIajgyM2txQVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYwODAyCWZpbGU6RW1iZXIgTWFpbF8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKMmoxL3dqTkMveHhaTk9DLzhiczJ5ZGxIM0FVb25WM08rY3VYRmU3VytkZmhVNzhKbmJQd1FReEJuYlNaVFdtT1NoM0lidGhMRzNTQXdVVWpQc3lGQVE9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.2.0/EmberMail_0.2.0_x64-setup.exe"
     }
   }
 }
