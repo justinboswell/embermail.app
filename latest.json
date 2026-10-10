@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Tasks\n- New Tasks tab beside the Agenda (and a Tasks button on the left bar). Add tasks with due dates, times and notes; get a notification when they're due.\n- Make a task from any email: right-click > Add as task, the Add as task button in the reader, or drag it onto the Tasks panel. The task links back to the email.\n- Follow-up reminders and snoozed mail show up among your tasks.\n- Tasks sync with Google Tasks and Microsoft To Do. Existing Gmail and Outlook accounts need to reconnect once (the Tasks panel shows a Reconnect button). Tasks kept on this computer sync through Sync settings.\n\nLook and layout\n- A thin bar on the left switches between Mail, Calendar and Tasks; Settings moved to its bottom corner.\n- The right panel can be resized by dragging its left edge.\n- Stacks cards can have colors (Settings > Categories > Colors). Priority is orange, Starred yellow and Primary blue by default.\n- The Read card is dimmed so finished mail recedes.\n- A blue calendar button in the Agenda opens the full calendar.",
-  "pub_date": "2026-10-09T15:46:46.832Z",
+  "version": "0.2.1",
+  "notes": "Fixes a hang in 0.2.0 where no mail loaded when Sync settings was on.\nSync settings and saving drafts now work with Gmail accounts.\nRight-clicking a message highlights it, so it's clear what the menu acts on.",
+  "pub_date": "2026-10-10T17:38:02.778Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEtvR3cwNjhPd0VEb0Y4L2VpRnNwekZlR2ZXeDZWODNWa084V1Iwd0ExWkRUdzArTDFGdzZDOUhsUmRvMDRkN1lJdDhUd0VnVXhGMGNIajgyM2txQVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYwODAyCWZpbGU6RW1iZXIgTWFpbF8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKMmoxL3dqTkMveHhaTk9DLzhiczJ5ZGxIM0FVb25WM08rY3VYRmU3VytkZmhVNzhKbmJQd1FReEJuYlNaVFdtT1NoM0lidGhMRzNTQXdVVWpQc3lGQVE9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.2.0/EmberMail_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEpXbTZEckNSS1NTZ0VxRlI0QitkZnNEN3lObSt0SGZQWlU3ajJvYUs4Y3JBUnR3aVlrMnNhaWVmWW5ERU5pcjFuYU0yRTdEUnVhZ3lJMEFsdVM0WHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjUzODc3CWZpbGU6RW1iZXIgTWFpbF8wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKa1ZWSStFMzR2bXNEbW91OHVNOU82OEs2Q1drNU5QQjFOaTlaVkhOaHhFK1BHb05JbDBuQWxmUUVCdW1zUTFXNDNlUVYzanNXN3gvcGpTQkVLbTJYQVE9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.2.1/EmberMail_0.2.1_x64-setup.exe"
     }
   }
 }
