@@ -13,7 +13,7 @@
   main { max-width: 40rem; margin: 0 auto; padding: 4rem 1rem; }
   h1 { font-size: 2.5rem; margin: 0 0 .5rem; }
   p { color: var(--muted); }
-  a.button { display: inline-block; margin-top: 1rem; padding: .75rem 1.25rem; border-radius: .5rem; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; }
+  a.button { display: inline-block; margin: 1rem .5rem 0 0; padding: .75rem 1.25rem; border-radius: .5rem; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; }
 </style>
 </head>
 <body>
@@ -22,11 +22,15 @@
   <h1>Ember Mail</h1>
   <p>A fast desktop email client for Gmail, Outlook.com, iCloud and any IMAP server — with calendars, smart inbox stacks and more.</p>
   <a class="button" id="download" href="https://github.com/justinboswell/embermail.app/releases/latest">Download for Windows</a>
+  <a class="button" id="download-mac" href="https://github.com/justinboswell/embermail.app/releases/latest">Download for Mac</a>
+  <p><small>Mac: Apple Silicon. The app isn't signed yet, so the first time, right-click it and choose Open (or allow it in System Settings &rsaquo; Privacy &amp; Security).</small></p>
   <p id="version"></p>
 </main>
 <script>
   fetch("latest.json").then((r) => r.json()).then((m) => {
     document.getElementById("download").href = m.platforms["windows-x86_64"].url;
+    const mac = m.platforms["darwin-aarch64"];
+    if (mac) document.getElementById("download-mac").href = mac.url.replace(/\.app\.tar\.gz$/, ".dmg");
     document.getElementById("version").textContent = "Version " + m.version;
   }).catch(() => {});
 </script>
