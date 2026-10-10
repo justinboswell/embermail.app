@@ -1,11 +1,15 @@
 {
-  "version": "0.2.1",
-  "notes": "Fixes a hang in 0.2.0 where no mail loaded when Sync settings was on.\nSync settings and saving drafts now work with Gmail accounts.\nRight-clicking a message highlights it, so it's clear what the menu acts on.",
-  "pub_date": "2026-10-10T17:38:02.778Z",
+  "version": "0.3.0",
+  "notes": "Version 0.3.0 (#150)\n\nCo-authored-by: Justin Boswell <jboswell-codev@agbo.com>\nCo-authored-by: Claude Opus 5.5 <noreply@anthropic.com>",
+  "pub_date": "2026-10-10T20:02:17.082Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEpXbTZEckNSS1NTZ0VxRlI0QitkZnNEN3lObSt0SGZQWlU3ajJvYUs4Y3JBUnR3aVlrMnNhaWVmWW5ERU5pcjFuYU0yRTdEUnVhZ3lJMEFsdVM0WHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjUzODc3CWZpbGU6RW1iZXIgTWFpbF8wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKa1ZWSStFMzR2bXNEbW91OHVNOU82OEs2Q1drNU5QQjFOaTlaVkhOaHhFK1BHb05JbDBuQWxmUUVCdW1zUTFXNDNlUVYzanNXN3gvcGpTQkVLbTJYQVE9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.2.1/EmberMail_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEF6NlVUUjNLUnV5T0VNOERJR3RZcSsvMDBLOVRvUDFjQkk0d1lDa1RmVTg5aFJveC9QdDRLNUp2UGFocjZtSUNHVG55RGpUZk13ZyttaGUrNFhTWEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjYyMzY5CWZpbGU6RW1iZXIgTWFpbF8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKRjNhaFRkTTZxRXh6bnVDNUZFRmNXWE80Qm11QnExR1ZqaFErbGl1SkdIRjlMcDllOEw4cjYzUXYxd1RSSmVmNHlCQTU1eVM1L25CaXVkUGF2M0VqQ0E9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.3.0/EmberMail_0.3.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEJvT1E4L0J3N0RaNU9UZEtHMCtoUnd5a1FxaWtHa2lYM0s1dzVFVGRIc3lGQmVQSnVmNzRFYUtyMnQrS3FDc2pIUDc4bEgxSHMzbzkySEw5K2o0bHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjYxOTIxCWZpbGU6RW1iZXIgTWFpbC5hcHAudGFyLmd6CXZlcnNpb246MC4zLjAKaWljMHY4WlE3cit6K3pPc05oU2NmTm9UeWJuZXFQa0FzMmgvc08yYkZHSGpIWHNJUHAwNTRBK0dNNHFFQWFZd0lHQ2lIUWIvbmdyL0hOL0YwNHVKQkE9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.3.0/EmberMail_0.3.0_aarch64.app.tar.gz"
     }
   }
 }
