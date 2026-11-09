@@ -1,15 +1,15 @@
 {
-  "version": "0.4.3",
-  "notes": "Ember Mail 0.4.3",
-  "pub_date": "2026-11-08T07:57:14.087Z",
+  "version": "0.4.4",
+  "notes": "Ember Mail 0.4.4",
+  "pub_date": "2026-11-09T16:17:25.282Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bENYSjFIL0RMNFRrTGF4RVpDa2VJc2tkRkgvSzJoajl6aW45RitZSXBJaURQUnlZc0ZNMnB4NHZodTcxVk84WDR3b2NhODZlNlNoclhLOXdtTGJLOVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIxMjUxCWZpbGU6RW1iZXIgTWFpbF8wLjQuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjMKNnRCd0w2MVBPeHJzaXpqZ3NvMzRWaFNrMTdtZ3hFTW5HRXZLVEdpWWRQdkFDZnFVU1ZENGNGbW5jakVVbk8xMkxMeWlHeTF4Q2R4UUg3OFZyTm43QUE9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.4.3/EmberMail_0.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bExMcGgrZUg2V0g2WXFhS0pkUFNQWFgyMlpVN3JrZXZVMFlmZ3BEelBGQS9sL3Y2MENoaW1nY0pqZzJobVZlR0JOUlAwRTY4eHV1YjJvM25QRnFBeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQwOTg5CWZpbGU6RW1iZXIgTWFpbF8wLjQuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjQKWUN0aisyM2NXRDlMOWFvQ0ZkZkFURUhnTmRIbWIxc29iTWNTbXlDeVVVS1RFSHc5c2picHllb3lyeUxDc2I0U2hPdm1nWDlTQTRFTHQrOWlTRS9vQmc9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.4.4/EmberMail_0.4.4_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEpIYlFnSUxySVFzNmR0ODNlT3ZhRjBGdHl6TmFKdGlvTkZxNEwzbkpmRFpScDBNWXNiMU9HekFnbElORW1ETThRbzJVRXBEL2FKdDZRUXhnUEJSencwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTIwODgyCWZpbGU6RW1iZXIgTWFpbC5hcHAudGFyLmd6CXZlcnNpb246MC40LjMKditmVDI2SnJ6SThpVjk5bmdaN1J4bjA0Y2V6WFhLYTF4c3dKVTBDUmVVbHFqT3dWRU1BQXV2ZHV6L3hleGhPSkd6L3VlODgvT0dzeDMzaUtuczl6QUE9PQo=",
-      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.4.3/EmberMail_0.4.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE9ETmJuMUp4bEJ4aU0xRmNUcStlelQxR3R0QzNaRGJNZDJmMGJVOGYzU01icDJYWjlJUVhVWEh6bFRkb09LdVR4Wm9mRHIrVFVhY0lhbUxMeXdvd09yMStyaHpzOEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM5NTA2CWZpbGU6RW1iZXIgTWFpbC5hcHAudGFyLmd6CXZlcnNpb246MC40LjQKUEZmZjJJMk9OSGxlT3lLbVBhUFVjWld2Z3pJYlh3ejhoRlpxYkhJNmM1cU9HUlhMd2R4MEJic2lscUdqRkpRM0tCV0xyK3NrYUJ2TDlSQWtRSi9ORGc9PQo=",
+      "url": "https://github.com/justinboswell/embermail.app/releases/download/v0.4.4/EmberMail_0.4.4_aarch64.app.tar.gz"
     }
   }
 }
